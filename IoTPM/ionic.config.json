@@ -1,0 +1,7 @@
+{
+  "name": "IoTPM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

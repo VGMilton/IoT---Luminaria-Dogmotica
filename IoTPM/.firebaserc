@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "testing-a7ffc": {
+      "hosting": {
+        "app": [
+          "testing-a7ffc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "testing-a7ffc"
+  }
+}
